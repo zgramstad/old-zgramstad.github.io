@@ -1,3 +1,4 @@
 name: Zach Gramstad
 markdown: kramdown
 theme: jekyll-theme-merlot
+permalink: blog/:year/:month/:day/:title
